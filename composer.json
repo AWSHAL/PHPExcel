@@ -5,6 +5,8 @@
     "homepage": "https://github.com/PHPOffice/PHPExcel",
     "type": "library",
     "license": "LGPL-2.1",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Maarten Balliauw",
